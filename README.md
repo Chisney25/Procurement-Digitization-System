@@ -1,3 +1,5 @@
+> **Note on Documentation:** This repository serves as a **technical retrospective** of a solution architected and deployed during my tenure at Ets Dominion Auto (Nov 2023 – Jan 2025). It is presented here to demonstrate my proficiency in Power Platform architecture, SharePoint data modeling, and SDLC documentation standards.
+
 # Procurement Digitization System 🚀
 
 ## 📋 Overview
