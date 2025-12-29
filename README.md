@@ -24,8 +24,6 @@ In my role at **Ets Dominion Auto**, I identified a significant bottleneck in th
 2. Upload the Power App `.msapp` file to your environment.
 3. Update the Power Automate connections to point to your local SharePoint site.
 
----
-
 ## 🚀 Future DevOps & ALM Roadmap
 To transition this project from a functional prototype to an enterprise-grade solution, I am currently exploring the following DevOps practices:
 
@@ -40,3 +38,10 @@ To transition this project from a functional prototype to an enterprise-grade so
 
 4. **Testing Automation:**
    - Exploring **Power Apps Test Engine** to create automated UI tests, ensuring new updates do not break existing logic.
+
+## 📚 Technical Documentation
+For a deep dive into the system architecture, data schema, and security protocols, please see the:
+[System Design Specification](./docs/system-design-specification.md)
+
+
+---
