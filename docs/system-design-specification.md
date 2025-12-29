@@ -25,8 +25,8 @@ I designed a relational data structure using SharePoint Lists as the primary dat
 ### 3.2 Logic & Workflow (Power Automate)
 The automation engine follows a **Conditional Approval Pattern**:
 1. **Trigger:** On item creation in `ProcurementRequests`.
-2. **Logic Gate:** - If `EstimatedCost > 5000 PLN`: Route to **Senior Management**.
-   - If `EstimatedCost <= 5000 PLN`: Route to **Department Lead**.
+2. **Logic Gate:** - If `EstimatedCost > 500000 CFA`: Route to **Senior Management**.
+   - If `EstimatedCost <= 500000 CFA`: Route to **Department Lead**.
 3. **Escalation:** If no response within 48 hours, a reminder notification is sent via **Microsoft Teams**.
 
 ## 4. Security & Governance
